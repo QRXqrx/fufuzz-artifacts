@@ -1,6 +1,6 @@
 #  FunFuzz: Greybox Fuzzing with Function Significance.
 
-Artifacts of TOSEM Submission: _FunFuzz: Greybox Fuzzing with Function Significance_.
+Artifacts of Submission: _FunFuzz: Greybox Fuzzing with Function Significance_.
 
 ## Project structure
 
