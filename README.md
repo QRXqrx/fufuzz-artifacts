@@ -9,7 +9,7 @@ AFLFun
 ---------------
 .
 ├── README.md   # Project briefs
-├── aflppfun    # Source code of our prototype
+├── aflpp-fun   # Source code of FunFuzz prototype
 └── data        # Experimental data
 
 ```
