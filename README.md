@@ -1,6 +1,6 @@
-#  OOPSLA'23 - FunFuzz: Greybox Fuzzing with Function Significance.
+#  FunFuzz: Greybox Fuzzing with Function Significance.
 
-Artifacts of OOPSAL'23 Submission: _FunFuzz: Greybox Fuzzing with Function Significance_.
+Artifacts of TOSEM Submission: _FunFuzz: Greybox Fuzzing with Function Significance_.
 
 ## Project structure
 
